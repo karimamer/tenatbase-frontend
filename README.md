@@ -1,5 +1,12 @@
-*Psst — looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
+
+---
+
+# tenatbase frontend
+
+This is a simple project that fetces key and values and puts them in a table on the frontend 
+
+*Note that you will need to have [Node.js](https://nodejs.org) installed.*
 ---
 
 # svelte app
